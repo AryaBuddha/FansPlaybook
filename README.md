@@ -24,5 +24,6 @@ The code here is the backend of the mobile app. It is **NOT** complete, and only
 &nbsp;
 
 Information:
-[NexTech Hackathon](https://nextech.org/programs/5ghackathon/)
-[AT&T Hackathon](https://www.eventbrite.com/e/atts-5g-sports-hackathon-tickets-160847965595)
+
+[NexTech](https://nextech.org/programs/5ghackathon/) |
+[AT&T](https://www.eventbrite.com/e/atts-5g-sports-hackathon-tickets-160847965595)
