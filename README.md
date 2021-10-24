@@ -2,7 +2,7 @@
 # AT&T 5G Sports Hackathon
 
 ### Second Place Winner
-### Best Design Award
+### Best Presentation Award
 
 &nbsp;
 &nbsp;
